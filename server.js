@@ -4,9 +4,9 @@
  *  of this assignment has been copied manually or electronically from any other source
  *  (including 3rd party web sites) or distributed to other students.
  *
- *  Name: Yujin Kim / Student ID: ykim296 / Date: 2022 Sep 수정하시오
+ *  Name: Yujin Kim / Student ID: ykim296 / Date: 2022 Sep 29
  *
- *  Online (Cyclic) Link:
+ *  Online (Cyclic) Link: https://elated-mite-trunks.cyclic.app
  *
  ********************************************************************************/
 
